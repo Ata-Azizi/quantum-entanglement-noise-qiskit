@@ -61,7 +61,7 @@ $$
 Purity measures how mixed a quantum state is:
 
 $$
-P=\operatorname{Tr}(\rho^2)
+P=\mathrm{Tr}(\rho^2)
 $$
 
 For a two-qubit system, a pure state has \(P=1\), while the maximally mixed state has \(P=1/4\).
